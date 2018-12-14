@@ -10,6 +10,9 @@ public class MyTemplateApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MyTemplateApplication.class, args);
+        
+        
+        
     }
 
 }
