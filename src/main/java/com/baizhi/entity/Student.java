@@ -19,4 +19,5 @@ public class Student implements Serializable {
     private Date Bir;
     private List<Tests> list;
     private String city;
+    private Integer id;
 }
