@@ -20,6 +20,7 @@ public class TestController {
         return "index";
     }
 
+
     @RequestMapping("queryAll")
     @ResponseBody
     public List<Tests> queryAll(){
